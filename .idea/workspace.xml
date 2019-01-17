@@ -1,66 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96455442-c8f8-4ab6-aa58-604c08dd7afe" name="Default" comment="'if __'">
+    <list default="true" id="96455442-c8f8-4ab6-aa58-604c08dd7afe" name="Default" comment="'if __name__ == &quot;__main&quot;:' added">
+      <change afterPath="$PROJECT_DIR$/oop/oop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/blackjack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/10_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/10_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/10_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/10_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/10_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/10_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/10_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/10_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/1_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/1_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/1_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/1_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/1_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/1_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/1_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/1_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/2_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/2_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/2_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/2_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/2_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/2_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/2_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/2_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/3_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/3_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/3_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/3_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/3_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/3_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/3_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/3_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/4_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/4_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/4_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/4_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/4_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/4_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/4_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/4_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/5_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/5_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/5_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/5_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/5_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/5_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/5_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/5_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/6_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/6_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/6_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/6_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/6_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/6_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/6_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/6_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/7_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/7_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/7_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/7_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/7_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/7_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/7_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/7_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/8_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/8_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/8_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/8_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/8_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/8_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/8_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/8_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/9_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/9_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/9_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/9_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/9_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/9_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/9_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/9_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/AUTHORS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/COPYING" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/COPYING" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/Changelog" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/Changelog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/NEWS" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/NEWS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/README" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/jack_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/jack_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/jack_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/jack_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/jack_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/jack_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/jack_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/jack_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/king_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/king_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/king_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/king_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/king_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/king_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/king_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/king_spade.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/queen_club.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/queen_club.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/queen_diamond.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/queen_diamond.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/queen_heart.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/queen_heart.ppm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/cards/queen_spade.ppm" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack_game/cards/queen_spade.ppm" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,14 +68,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="py" value="11798" />
-          <entry key="txt" value="28" />
+          <entry key="py" value="12268" />
+          <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="11798" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="12268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -142,14 +85,14 @@
           <entry key="centred" value="3" />
           <entry key="menu" value="1" />
           <entry key="pickle" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="29" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="28" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -159,14 +102,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Blackjack_game/blackjack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="160" column="44" lean-forward="true" selection-start-line="160" selection-start-column="44" selection-end-line="161" selection-end-column="54" />
+            <state relative-caret-position="168">
+              <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
               <folding>
                 <marker date="1547736065010" expanded="true" signature="1226:1231" ph="..." />
                 <marker date="1547736065010" expanded="true" signature="1226:1757" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/oop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding>
+                <marker date="1547746924825" expanded="true" signature="21:22" ph="..." />
+                <marker date="1547746924825" expanded="true" signature="21:27" ph="..." />
               </folding>
             </state>
           </provider>
@@ -183,6 +139,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -216,12 +173,13 @@
         <option value="$PROJECT_DIR$/Blackjack/import.py" />
         <option value="$PROJECT_DIR$/Blackjack/import_test.py" />
         <option value="$PROJECT_DIR$/Blackjack_game/import_test.py" />
+        <option value="$PROJECT_DIR$/oop/oop.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="205" />
-    <option name="y" value="44" />
+    <option name="x" value="174" />
+    <option name="y" value="40" />
     <option name="width" value="2196" />
     <option name="height" value="619" />
   </component>
@@ -256,11 +214,6 @@
               <item name="Udemy_python_developer_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy complete developer course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Udemy_python_developer_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy complete developer course" type="462c0819:PsiDirectoryNode" />
-              <item name="Blackjack_game" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -291,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.blackjack">
+  <component name="RunManager" selected="Python.oop">
     <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy_python_developer_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy_python_developer_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time/time challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/oop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -398,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.time challenge" />
       <item itemvalue="Python.timezone" />
       <item itemvalue="Python.functions" />
       <item itemvalue="Python.morefunct" />
       <item itemvalue="Python.blackjack" />
+      <item itemvalue="Python.oop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oop" />
         <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.morefunct" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.timezone" />
-        <item itemvalue="Python.time challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -425,13 +378,22 @@
       <option name="presentableId" value="Default" />
       <updated>1532512634474</updated>
     </task>
+    <task id="LOCAL-00001" summary="'if __name__ == &quot;__main&quot;:' added">
+      <created>1547737654615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547737654615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="44" width="2196" height="619" extended-state="0" />
+    <frame x="174" y="40" width="2196" height="619" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.502947" side_tool="true" weight="0.13069767" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49705306" visible="true" weight="0.13563219" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49705306" weight="0.1369545" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.32827324" />
       <window_info anchor="bottom" id="Python Console" order="0" />
@@ -447,11 +409,15 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.33333334" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.33333334" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'if __name__ == &quot;__main&quot;:' added" />
+    <option name="LAST_COMMIT_MESSAGE" value="'if __name__ == &quot;__main&quot;:' added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,11 +656,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Blackjack_game/blackjack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="160" column="44" lean-forward="true" selection-start-line="160" selection-start-column="44" selection-end-line="161" selection-end-column="54" />
+        <state relative-caret-position="168">
+          <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
           <folding>
             <marker date="1547736065010" expanded="true" signature="1226:1231" ph="..." />
             <marker date="1547736065010" expanded="true" signature="1226:1757" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/oop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <marker date="1547746924825" expanded="true" signature="21:22" ph="..." />
+            <marker date="1547746924825" expanded="true" signature="21:27" ph="..." />
           </folding>
         </state>
       </provider>
