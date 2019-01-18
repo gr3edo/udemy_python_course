@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96455442-c8f8-4ab6-aa58-604c08dd7afe" name="Default" comment="'if __name__ == &quot;__main&quot;:' added">
-      <change afterPath="$PROJECT_DIR$/oop/oop.py" afterDir="false" />
+    <list default="true" id="96455442-c8f8-4ab6-aa58-604c08dd7afe" name="Default" comment="oop started">
+      <change afterPath="$PROJECT_DIR$/oop/accounts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/oop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     <session id="70863023">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="60" />
+          <entry key="project.closed" value="61" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="7" />
           <entry key="project.open.time.15" value="1" />
@@ -59,27 +60,29 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="15" />
-          <entry key="project.open.time.7" value="10" />
+          <entry key="project.open.time.7" value="11" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="accounts" value="565" />
           <entry key="dummy" value="16" />
-          <entry key="py" value="12268" />
-          <entry key="txt" value="63" />
+          <entry key="py" value="12522" />
+          <entry key="txt" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="79" />
-          <entry key="Python" value="12268" />
+          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="Python" value="13087" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="accounts" value="1" />
           <entry key="binary" value="3" />
           <entry key="binary2" value="1" />
           <entry key="centred" value="3" />
@@ -92,7 +95,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -103,26 +106,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blackjack_game/blackjack.py">
+        <entry file="file://$PROJECT_DIR$/oop/oop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               <folding>
-                <marker date="1547736065010" expanded="true" signature="1226:1231" ph="..." />
-                <marker date="1547736065010" expanded="true" signature="1226:1757" ph="..." />
+                <marker date="1547830984367" expanded="true" signature="55:56" ph="..." />
+                <marker date="1547830984367" expanded="true" signature="55:61" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oop/oop.py">
+        <entry file="file://$PROJECT_DIR$/oop/accounts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="323">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <marker date="1547746924825" expanded="true" signature="21:22" ph="..." />
-                <marker date="1547746924825" expanded="true" signature="21:27" ph="..." />
+                <marker date="1547833147077" expanded="true" signature="14:19" ph="..." />
               </folding>
             </state>
           </provider>
@@ -174,6 +176,7 @@
         <option value="$PROJECT_DIR$/Blackjack/import_test.py" />
         <option value="$PROJECT_DIR$/Blackjack_game/import_test.py" />
         <option value="$PROJECT_DIR$/oop/oop.py" />
+        <option value="$PROJECT_DIR$/oop/accounts" />
       </list>
     </option>
   </component>
@@ -181,7 +184,7 @@
     <option name="x" value="174" />
     <option name="y" value="40" />
     <option name="width" value="2196" />
-    <option name="height" value="619" />
+    <option name="height" value="552" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -214,6 +217,11 @@
               <item name="Udemy_python_developer_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy complete developer course" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Udemy_python_developer_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy complete developer course" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +252,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oop">
+  <component name="RunManager" selected="Python.accounts">
+    <configuration name="accounts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Udemy_python_developer_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/accounts" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy_python_developer_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,41 +358,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timezone" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Udemy_python_developer_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time/Timezones" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Time/Timezones/timezone.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.timezone" />
       <item itemvalue="Python.functions" />
       <item itemvalue="Python.morefunct" />
       <item itemvalue="Python.blackjack" />
       <item itemvalue="Python.oop" />
+      <item itemvalue="Python.accounts" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.accounts" />
         <item itemvalue="Python.oop" />
         <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.morefunct" />
         <item itemvalue="Python.functions" />
-        <item itemvalue="Python.timezone" />
       </list>
     </recent_temporary>
   </component>
@@ -385,17 +393,23 @@
       <option name="project" value="LOCAL" />
       <updated>1547737654615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oop started">
+      <created>1547747399927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547747399927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="40" width="2196" height="619" extended-state="0" />
+    <frame x="174" y="40" width="2196" height="552" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.502947" side_tool="true" weight="0.13069767" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49705306" weight="0.1369545" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49705306" visible="true" weight="0.13649026" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32827324" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49953488" weight="0.33275864" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5004651" side_tool="true" weight="0.33206832" />
@@ -406,6 +420,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32827324" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -417,7 +432,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'if __name__ == &quot;__main&quot;:' added" />
-    <option name="LAST_COMMIT_MESSAGE" value="'if __name__ == &quot;__main&quot;:' added" />
+    <MESSAGE value="oop started" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -639,25 +655,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blackjack/import.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/python/HelloWorld/lib/python3.7/site-packages/blackjack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-647" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blackjack_game/import_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Blackjack/import.py" />
+    <entry file="file://$USER_HOME$/venv/python/HelloWorld/lib/python3.7/site-packages/blackjack.py" />
+    <entry file="file://$PROJECT_DIR$/Blackjack_game/import_test.py" />
     <entry file="file://$PROJECT_DIR$/Blackjack_game/blackjack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <marker date="1547736065010" expanded="true" signature="1226:1231" ph="..." />
             <marker date="1547736065010" expanded="true" signature="1226:1757" ph="..." />
@@ -667,11 +671,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/oop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
           <folding>
-            <marker date="1547746924825" expanded="true" signature="21:22" ph="..." />
-            <marker date="1547746924825" expanded="true" signature="21:27" ph="..." />
+            <marker date="1547830984367" expanded="true" signature="55:56" ph="..." />
+            <marker date="1547830984367" expanded="true" signature="55:61" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/accounts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <marker date="1547833147077" expanded="true" signature="14:19" ph="..." />
           </folding>
         </state>
       </provider>
