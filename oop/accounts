@@ -27,8 +27,6 @@ if __name__ == "__main__":
     tim.show_balance()
 
     tim.deposit(1000)
-    # tim.show_balance()
     tim.withdraw(500)
-    # tim.show_balance()
 
     tim.withdraw(20000)
